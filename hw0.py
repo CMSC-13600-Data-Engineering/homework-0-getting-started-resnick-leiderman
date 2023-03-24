@@ -2,7 +2,7 @@
 Introductory programming assignment.
 """
 import pandas as pd
-
+import numpy as np
 
 """
 !!!TODO!!!
